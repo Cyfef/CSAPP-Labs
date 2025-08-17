@@ -2,7 +2,7 @@
 
 ------
 
-<img src="C:\Users\Lenovo\Desktop\Share\datalab.png" alt="datalab" style="zoom: 67%;" />
+<img src="../images/datalab.png" alt="datalab" style="zoom: 67%;" />
 
 一些想法和经验：
 
@@ -15,4 +15,5 @@
 7. `(conditional)`将某种条件转化为掩码mask来表达
 8. `(logicalNeg)`注意到0变为-0符号位不变，非0变为相反数符号位变化
 9. `(howManyBits)`类似于二分查找的思想
+
 10. *(float)*float类型注意几种情况分类讨论，编码部分分块处理
